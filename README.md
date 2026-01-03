@@ -36,8 +36,7 @@ I build scalable, production-ready mobile apps with clean architecture and great
 
 ## 📫 Contact
 - **GitHub:** [TitanX](https://github.com/TitanX311)  
-- **LinkedIn:** [Abir Debnath](https://www.linkedin.com/in/abir-debnath-953126282/)  
-- **Email:** abirdebnath311@hotmail.com  
+- **LinkedIn:** [Abir Debnath](https://www.linkedin.com/in/abir-debnath-953126282/) 
 
 ---
 
