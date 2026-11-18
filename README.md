@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abir Debnath
+# 👋 Hi,
 
 🎯 **Flutter Developer | Firebase | UI/UX & Animations**  
 I build scalable, production-ready mobile apps with clean architecture and great user experience.
